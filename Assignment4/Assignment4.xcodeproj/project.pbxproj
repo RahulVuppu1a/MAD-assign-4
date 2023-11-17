@@ -15,6 +15,7 @@
 		B7B4F02F2B082A4D00B915C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7B4F02D2B082A4D00B915C1 /* LaunchScreen.storyboard */; };
 		B7B4F0372B082AE100B915C1 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B4F0362B082AE100B915C1 /* MainVC.swift */; };
 		B7B4F03C2B082BF200B915C1 /* ListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B4F03B2B082BF200B915C1 /* ListCell.swift */; };
+		B7B4F03E2B082D1500B915C1 /* DetailedVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B4F03D2B082D1500B915C1 /* DetailedVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		B7B4F0302B082A4D00B915C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B7B4F0362B082AE100B915C1 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		B7B4F03B2B082BF200B915C1 /* ListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListCell.swift; sourceTree = "<group>"; };
+		B7B4F03D2B082D1500B915C1 /* DetailedVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailedVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				B7B4F0362B082AE100B915C1 /* MainVC.swift */,
 				B7B4F03B2B082BF200B915C1 /* ListCell.swift */,
+				B7B4F03D2B082D1500B915C1 /* DetailedVC.swift */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			files = (
 				B7B4F0272B082A4B00B915C1 /* ViewController.swift in Sources */,
 				B7B4F0372B082AE100B915C1 /* MainVC.swift in Sources */,
+				B7B4F03E2B082D1500B915C1 /* DetailedVC.swift in Sources */,
 				B7B4F0232B082A4B00B915C1 /* AppDelegate.swift in Sources */,
 				B7B4F03C2B082BF200B915C1 /* ListCell.swift in Sources */,
 				B7B4F0252B082A4B00B915C1 /* SceneDelegate.swift in Sources */,
